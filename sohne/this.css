@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Sohne;
+    src: url(/static/media/SohneWeb-Mager.268e22ff.woff2) format("woff2")
+}
+@font-face {
+    font-family: Sohne;
+    font-weight: 500;
+    src: url(/static/media/SohneWeb-Kräftig.6199f8cb.woff2) format("woff2")
+}
