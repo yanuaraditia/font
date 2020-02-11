@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Basis Grotesque Pro;
+    src: url("https://d33wubrfki0l68.cloudfront.net/56e10200d02e132bef85db4f3aeb9f18767a6592/21ded/static/basis-grotesque-regular-pro-2714e1be2c265d0eef34d084b73601c3.eot");
+    src: url("https://d33wubrfki0l68.cloudfront.net/56e10200d02e132bef85db4f3aeb9f18767a6592/21ded/static/basis-grotesque-regular-pro-2714e1be2c265d0eef34d084b73601c3.eot#iefix") format("embedded-opentype"), url("https://d33wubrfki0l68.cloudfront.net/bdc0ed2305b9e9097d4b6e82f86b577fa76ede5b/ad31b/static/basis-grotesque-regular-pro-3d257d70f12240f5ba9b1a354d77ae2c.woff") format("woff"), url("https://d33wubrfki0l68.cloudfront.net/494356ccb3ed763fd491003a324ea14c5c1d3cdf/43803/static/basis-grotesque-regular-pro-c294fc5a277925342bcdbda0ebe58f61.woff2") format("woff2"), url("https://d33wubrfki0l68.cloudfront.net/0381bdc9238d2a874d6dce6f9a3252eaf677e106/a09ba/static/basis-grotesque-regular-pro-0e5f77af64ef0346d2c5af1efa470fbf.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Basis Grotesque Pro;
+    src: url("https://d33wubrfki0l68.cloudfront.net/b55431d1014becc797e242bcf3e9c3812e71a771/dacd8/static/basis-grotesque-bold-pro-0c375ea17f2a9034928b5b960a804dc8.eot");
+    src: url("https://d33wubrfki0l68.cloudfront.net/b55431d1014becc797e242bcf3e9c3812e71a771/dacd8/static/basis-grotesque-bold-pro-0c375ea17f2a9034928b5b960a804dc8.eot#iefix") format("embedded-opentype"), url("https://d33wubrfki0l68.cloudfront.net/22321fbfdb24976698e243afee237388131ebc74/d60a1/static/basis-grotesque-bold-pro-fbdf37a76895a2756bbaa60a9a2a521b.woff") format("woff"), url("https://d33wubrfki0l68.cloudfront.net/1c116ac331bebe7f6de075b5d7bab6f78fcf214e/e1240/static/basis-grotesque-bold-pro-1c5a5b626a1e48f7891d839b6358fc14.woff2") format("woff2"), url("https://d33wubrfki0l68.cloudfront.net/d1932c2f799f239fbe3754e5d8079b30854e34ac/56ee5/static/basis-grotesque-bold-pro-8895bd6e76edda7c7faaa46b3d92c82b.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Basis Grotesque Pro Mono;
+    src: url("https://d33wubrfki0l68.cloudfront.net/2270b04b850c0489eaad0439f4e32859851fda17/e9d95/static/basis-grotesque-mono-regular-pro-ad18c78079cbac5e6fc5ed30e35aa8fe.eot");
+    src: url("https://d33wubrfki0l68.cloudfront.net/2270b04b850c0489eaad0439f4e32859851fda17/e9d95/static/basis-grotesque-mono-regular-pro-ad18c78079cbac5e6fc5ed30e35aa8fe.eot#iefix") format("embedded-opentype"), url("https://d33wubrfki0l68.cloudfront.net/1bcd1c429617ce39c6697982c02731545b68c688/9df66/static/basis-grotesque-mono-regular-pro-378581cc874d244cc6dd37d441d2d673.woff") format("woff"), url("https://d33wubrfki0l68.cloudfront.net/4baa0ec17b5d55049fa291f25da9f9055f1353b1/32178/static/basis-grotesque-mono-regular-pro-a69988b2e2aef8223a9d9969ae880b38.woff2") format("woff2"), url("https://d33wubrfki0l68.cloudfront.net/ac1d7a2d7079423e9b326130deb91205df3798a6/31e5d/static/basis-grotesque-mono-regular-pro-010b57cf44329da521d8490c2e4e0fff.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Basis Grotesque Pro Mono;
+    src: url("https://d33wubrfki0l68.cloudfront.net/5ba299706391e95bf92adc6751b68f65039c330f/96101/static/basis-grotesque-mono-bold-pro-239aab4ad474bcda61b8c3f4795493ec.eot");
+    src: url("https://d33wubrfki0l68.cloudfront.net/5ba299706391e95bf92adc6751b68f65039c330f/96101/static/basis-grotesque-mono-bold-pro-239aab4ad474bcda61b8c3f4795493ec.eot#iefix") format("embedded-opentype"), url("https://d33wubrfki0l68.cloudfront.net/c6ad6e54f16213324bc30fa66980fa15139b1fdc/cf50e/static/basis-grotesque-mono-bold-pro-af146d3cc0e078eda5ee047bde509373.woff") format("woff"), url("https://d33wubrfki0l68.cloudfront.net/618d895880209c9126fafe2213129b15d8c90a8c/9a40a/static/basis-grotesque-mono-bold-pro-985d3c8bd0c441d18405f9495582f6ce.woff2") format("woff2"), url("https://d33wubrfki0l68.cloudfront.net/8d6e7ce854139d23c361d2923afa07654e3a07e2/0ed61/static/basis-grotesque-mono-bold-pro-00a1fd41d132aa66f583b150ee749bba.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
